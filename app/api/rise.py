@@ -1,21 +1,20 @@
 from fastapi import APIRouter, HTTPException
 import pandas as pd
-import plotly.express as px
 from app.api.rise_class import Rise
 
 router = APIRouter()
 
 
-@router.post('/rise/{name}')
+@router.post('/getMostRecentData/{name}')
 async def rise(name: str):
     """
-    Valid inputs: 
-    steinaker,
-    redfleet,
+    Valid inputs:   
+    steinaker,  
+    redfleet,  
     flaming 
     **********************
 
-    Returns data from the Bureau of Reclamation's [RISE catalog](https://data.usbr.gov/catalog).
+    Returns the most recent data from the Bureau of Reclamation's [RISE catalog](https://data.usbr.gov/catalog).
 
     [Link](https://data.usbr.gov/rise/api/) to RISE api documentation
     """

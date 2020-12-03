@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
-from app.api import rise
+from app.api import rise, riseHistorical
 
 app = FastAPI(
     title='WETx API',
@@ -13,6 +13,7 @@ app = FastAPI(
 # add routes here
 
 app.include_router(rise.router)
+app.include_router(riseHistorical.router)
 
 app.add_middleware(
     CORSMiddleware,
