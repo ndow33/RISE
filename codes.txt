@@ -1,0 +1,185 @@
+################################################
+Flaming Gorge Reservoir Dam and Powerplant
+################################################
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Storage-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/337
+https://data.usbr.gov/rise/api/result/337
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Inflow - Unregulated-cfs Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/338
+https://data.usbr.gov/rise/api/result/338
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Inflow-cfs Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/339
+https://data.usbr.gov/rise/api/result/339
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Elevation-ft Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/341
+https://data.usbr.gov/rise/api/result/341
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Evaporation-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/342
+https://data.usbr.gov/rise/api/result/342
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Bank Storage-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4275
+https://data.usbr.gov/rise/api/result/4275
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Inflow-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4287
+https://data.usbr.gov/rise/api/result/4287
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Inflow - Unregulated-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4300
+https://data.usbr.gov/rise/api/result/4300
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Release - Powerplant-cfs Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4306
+https://data.usbr.gov/rise/api/result/4306
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Release - Total-cfs Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4314
+https://data.usbr.gov/rise/api/result/4314
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Release - Total-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4353
+https://data.usbr.gov/rise/api/result/4353
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Release - Powerplant-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4360
+https://data.usbr.gov/rise/api/result/4360
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Release - Spillway-cfs Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4371
+https://data.usbr.gov/rise/api/result/4371
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Release - Bypass-cfs Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4390
+https://data.usbr.gov/rise/api/result/4390
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Delta Storage-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4402
+https://data.usbr.gov/rise/api/result/4402
+
+
+Flaming Gorge Reservoir Dam and Powerplant Daily Lake/Reservoir Area-acres Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4782
+https://data.usbr.gov/rise/api/result/4782
+
+
+################################################
+Steinaker Reservoir and Dam
+################################################
+
+
+Steinaker Reservoir and Dam Daily Lake/Reservoir Storage-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/774
+https://data.usbr.gov/rise/api/result/774
+
+
+Steinaker Reservoir and Dam Daily Lake/Reservoir Evaporation-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/775
+https://data.usbr.gov/rise/api/result/775
+
+
+Steinaker Reservoir and Dam Daily Lake/Reservoir Inflow-cfs Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/776
+https://data.usbr.gov/rise/api/result/776
+
+
+Steinaker Reservoir and Dam Daily Lake/Reservoir Elevation-ft Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/778
+https://data.usbr.gov/rise/api/result/778
+
+
+Steinaker Reservoir and Dam Daily Lake/Reservoir Release - Total-cfs Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4318
+https://data.usbr.gov/rise/api/result/4318
+
+
+Steinaker Reservoir and Dam Daily Lake/Reservoir Delta Storage-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4477
+https://data.usbr.gov/rise/api/result/4477
+
+
+Steinaker Reservoir and Dam Daily Lake/Reservoir Release - Total-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4478
+https://data.usbr.gov/rise/api/result/4478
+
+
+Steinaker Reservoir and Dam Daily Lake/Reservoir Inflow-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4479
+https://data.usbr.gov/rise/api/result/4479
+
+
+Steinaker Reservoir and Dam Daily Lake/Reservoir Area-acres Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4809
+https://data.usbr.gov/rise/api/result/4809
+
+
+################################################
+Red Fleet Reservoir and Dam
+################################################
+
+
+Red Fleet Reservoir and Dam Daily Lake/Reservoir Storage-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/685
+https://data.usbr.gov/rise/api/result/685
+
+
+Red Fleet Reservoir and Dam Daily Lake/Reservoir Inflow-cfs Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/686
+https://data.usbr.gov/rise/api/result/686
+
+
+Red Fleet Reservoir and Dam Daily Lake/Reservoir Elevation-ft Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/688
+https://data.usbr.gov/rise/api/result/688
+
+
+Red Fleet Reservoir and Dam Daily Lake/Reservoir Evaporation-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/689
+https://data.usbr.gov/rise/api/result/689
+
+
+Red Fleet Reservoir and Dam Daily Lake/Reservoir Release - Total-cfs Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4344
+https://data.usbr.gov/rise/api/result/4344
+
+
+Red Fleet Reservoir and Dam Daily Lake/Reservoir Delta Storage-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4492
+https://data.usbr.gov/rise/api/result/4492
+
+
+Red Fleet Reservoir and Dam Daily Lake/Reservoir Release - Total-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4493
+https://data.usbr.gov/rise/api/result/4493
+
+
+Red Fleet Reservoir and Dam Daily Lake/Reservoir Inflow-af Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4494
+https://data.usbr.gov/rise/api/result/4494
+
+
+Red Fleet Reservoir and Dam Daily Lake/Reservoir Area-acres Time Series Data
+https://data.usbr.gov/rise/api/catalog-item/4814
+https://data.usbr.gov/rise/api/result/4814
+
+
