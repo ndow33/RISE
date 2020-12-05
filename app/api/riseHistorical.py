@@ -7,7 +7,7 @@ import numpy as np
 
 router = APIRouter()
 
-@router.post('/getHistoricalData/{name}')
+@router.get('/getHistoricalData/{name}')
 async def rise(NAME: str, METRIC: str, startDate: str, endDate: str):
     """
     Valid inputs:   

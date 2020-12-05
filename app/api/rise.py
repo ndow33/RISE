@@ -5,7 +5,7 @@ from app.api.rise_class import Rise
 router = APIRouter()
 
 
-@router.post('/getMostRecentData/{name}')
+@router.get('/getMostRecentData/{name}')
 async def rise(name: str):
     """
     Valid inputs:   
